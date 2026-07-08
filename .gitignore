@@ -1,0 +1,31 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Android
+android/.gradle/
+android/app/build/
+android/local.properties
+**/android/**/GeneratedPluginRegistrant.java
+
+# iOS
+ios/Pods/
+ios/Runner.xcworkspace/
+
+# Logs
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Mac
+.DS_Store
+
+# Firebase (optional if private)
+# google-services.json
+# GoogleService-Info.plist

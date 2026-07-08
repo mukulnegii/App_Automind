@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "510713558141",
+    "project_id": "automind-c3faa",
+    "storage_bucket": "automind-c3faa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510713558141:android:f5fb84f2f70a42ff5b2d14",
+        "android_client_info": {
+          "package_name": "com.automind.app.automind"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1TEdJy3Ts-XaAAOkKUETJxfsyTCixFfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
