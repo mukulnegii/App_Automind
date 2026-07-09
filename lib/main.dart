@@ -14,7 +14,7 @@ import 'tabs/main_tabs.dart';
 import 'tabs/home/add_vehicle_page.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
-// Setup application theme and styling
+
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
