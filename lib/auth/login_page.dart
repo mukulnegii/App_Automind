@@ -6,7 +6,7 @@ import '../tabs/main_tabs.dart';
 import 'signup_page.dart';
 import 'forgot_password_page.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-// login page
+
 class LoginPage extends StatefulWidget {
   const LoginPage({super.key});
 
